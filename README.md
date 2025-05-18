@@ -12,6 +12,7 @@ This repository contains the setup and analysis for the 10 Academy Solar Challen
    pip install -r requirements.txt
 
 3. **Folder Structure**:
+    ```bash
     -src/: Source code
 
     -notebooks/: Jupyter notebooks for EDA
