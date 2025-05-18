@@ -11,15 +11,15 @@ This repository contains the setup and analysis for the 10 Academy Solar Challen
    source venv/Scripts/activate  # On Windows Git Bash
    pip install -r requirements.txt
 
-Folder Structure:
-  src/: Source code
+3. **Folder Structure**:
+    -src/: Source code
 
-  notebooks/: Jupyter notebooks for EDA
+    -notebooks/: Jupyter notebooks for EDA
 
-  tests/: Unit tests
+    -tests/: Unit tests
 
-  scripts/: Utility scripts
+    -scripts/: Utility scripts
 
-   data/: Data files (ignored in .gitignore)
+    -data/: Data files (ignored in .gitignore)
 
 
